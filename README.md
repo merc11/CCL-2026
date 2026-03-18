@@ -1,7 +1,7 @@
 # 第一届低资源缅甸语固定模版语句推理评测
 **(The 1st Low-Resource Burmese Fixed Template Sentence Inference Evaluation)**
 
-![Static Badge](https://img.shields.io/badge/CCL_2025-Evaluation_Task-blue) ![Static Badge](https://img.shields.io/badge/Language-Burmese-green) ![Static Badge](https://img.shields.io/badge/Parameters-under_14B-orange)
+![Static Badge](https://img.shields.io/badge/CCL_2026-Evaluation_Task-blue) ![Static Badge](https://img.shields.io/badge/Language-Burmese-green) ![Static Badge](https://img.shields.io/badge/Parameters-under_14B-orange)
 
 欢迎来到 **第一届低资源缅甸语固定模版语句推理评测**！本评测任务旨在推动机器翻译与大语言模型（LLMs）在低资源语言特定垂直场景下的深度理解与应用。
 
