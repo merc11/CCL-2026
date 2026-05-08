@@ -64,7 +64,7 @@
 ## 7. 任务网址
  
 🔗 https://github.com/merc11/CCL-2026
-**报名链接：https://f.wps.cn/g/WuXhnUrJ/
+* **报名链接**：https://f.wps.cn/g/WuXhnUrJ/
 
 ---
 *如对比赛有任何疑问，欢迎通过邮件与任务联系人沟通。期待您的参与！*
