@@ -69,6 +69,6 @@
 
 ## 8. 评测结果
 
-* **评测结果**：[https://github.com/merc11/CCL-2026](https://www.kdocs.cn/l/cfIdsnVXtXcd)
+* **评测结果**：https://www.kdocs.cn/l/cfIdsnVXtXcd
 ---
 *如对比赛有任何疑问，欢迎通过邮件与任务联系人沟通。期待您的参与！*
