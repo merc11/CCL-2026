@@ -66,6 +66,8 @@
 * 🔗 **任务网址**：https://github.com/merc11/CCL-2026
 * 🔗 **报名链接**：https://f.wps.cn/g/WuXhnUrJ/
 * **报名截止时间**：2026年6月3日
+* 🔗 **投稿系统**：https://openreview.net/group?id=cips-cl.org/CCL/2026/Workshop/Eval#tab-your-consoles
+* **投稿截止时间**：7月31日24时
 
 ## 8. 评测结果
 
